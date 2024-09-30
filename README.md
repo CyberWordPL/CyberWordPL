@@ -1,7 +1,6 @@
 # CyberWord - Programmer trying to do something from poland
 
-## I work on - NOTHING 
-## I use: Rust, neovim, Arch Linux, i3, alacritty (and some other)
+## I work on - NOTHING
 
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CyberWordPL&show_icons=true&theme=gruvbox" />
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CyberWordPL&layout=compact&langs_count=10&card_width=320&show_icons=true&theme=gruvbox" />
