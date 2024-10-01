@@ -2,7 +2,7 @@
 
 ## I work on - NOTHING
 
-https://profile-counter.glitch.me/%7BCyberWord_YT%7D/count.svg
+https://profile-counter.glitch.me/CyberWordPL/count.svg
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CyberWordPL&show_icons=true&theme=gruvbox" />
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CyberWordPL&layout=compact&langs_count=10&card_width=320&show_icons=true&theme=gruvbox" />
 
