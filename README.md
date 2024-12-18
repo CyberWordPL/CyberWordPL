@@ -1,7 +1,5 @@
 # CyberWord - Programmer trying to do something from poland
 
-## I work on - NOTHING
-
 ![counter](https://profile-counter.glitch.me/CyberWordPL/count.svg)
 
 
